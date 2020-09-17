@@ -1,0 +1,55 @@
+
+City,Weather,Temperature,Humidity,Date
+City : kabul:,,,,
+kabul:,"('Clear', '-', 'clear sky')",299.91,18,17-09-2020
+kabul:,"('Clear', '-', 'clear sky')",299.56,18,2020-09-18
+kabul:,"('Clear', '-', 'clear sky')",293.96,25,2020-09-19
+kabul:,"('Clear', '-', 'clear sky')",290.39,30,2020-09-20
+kabul,"('Clear', '-', 'clear sky')",288.41,34,2020-09-21
+,,,,
+,,,,
+City,Weather,Temperature,Humidity,Date
+City : herat:,,,,
+herat:,"('Clear', '-', 'clear sky')",301.04,23,17-09-2020
+herat:,"('Clear', '-', 'clear sky')",298.34,23,2020-09-18
+herat:,"('Clear', '-', 'clear sky')",293.57,31,2020-09-19
+herat:,"('Clear', '-', 'clear sky')",289.43,42,2020-09-20
+herat,"('Clear', '-', 'clear sky')",286.62,56,2020-09-21
+,,,,
+,,,,
+City,Weather,Temperature,Humidity,Date
+City : paktia:,,,,
+paktia:,"('Clear', '-', 'clear sky')",294.25,18,17-09-2020
+paktia:,"('Clear', '-', 'clear sky')",294.75,18,2020-09-18
+paktia:,"('Clear', '-', 'clear sky')",291.17,25,2020-09-19
+paktia:,"('Clear', '-', 'clear sky')",288.39,32,2020-09-20
+paktia,"('Clear', '-', 'clear sky')",286.14,37,2020-09-21
+,,,,
+,,,,
+City,Weather,Temperature,Humidity,Date
+City : mazar:,,,,
+mazar:,clear sky,291.69,30,17-09-2020
+mazar:,"('Clear', '-', 'clear sky')",290.8,30,2020-09-18
+mazar:,"('Clear', '-', 'clear sky')",282.35,53,2020-09-19
+mazar:,"('Clear', '-', 'clear sky')",280.08,64,2020-09-20
+mazar,"('Clear', '-', 'clear sky')",279,66,2020-09-21
+,,,,
+,,,,
+City,Weather,Temperature,Humidity,Date
+City : paktia:,,,,
+paktia:,clear sky,294.25,18,17-09-2020
+paktia:,clear sky,294.75,18,2020-09-18
+paktia:,clear sky,291.17,25,2020-09-19
+paktia:,clear sky,288.39,32,2020-09-20
+paktia,clear sky,286.14,37,2020-09-21
+,,,,
+,,,,
+City,Weather,Temperature,Humidity,Date
+City : jalalabad:,,,,
+jalalabad:,clear sky,308.09,15,17-09-2020
+jalalabad:,clear sky,309.38,15,2020-09-18
+jalalabad:,clear sky,306.42,20,2020-09-19
+jalalabad:,clear sky,303.78,19,2020-09-20
+jalalabad,clear sky,300.47,20,2020-09-21
+,,,,
+,,,,
